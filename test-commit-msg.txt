@@ -1,1 +1,4 @@
 feat(oauth-login): Here we go
+
+- adds a login page to the app
+- adds a google login button component
