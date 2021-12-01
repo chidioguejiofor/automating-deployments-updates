@@ -3,5 +3,5 @@ name = "cz_customize"
 version = "0.1.0"
 
 [tool.commitizen.customize]
-schema_pattern = "^(feat|fix|chore|perf|refactor)$"
+schema_pattern = "^(feat|fix|chore|perf|refactor)(\\([A-Za-z0-9\\-]{1,}\\)){0,1}$"
 
